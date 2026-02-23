@@ -1,6 +1,5 @@
 google.com, pub-1469984799973267, DIRECT, f08c47fec0942fa0
 unity.com, 8987664, DIRECT, 96cabb5fbdde37a7
-inmobi.com, ce6d30fe7f03429b8de15d45682acf95, DIRECT, 83e75a7ae333ca9d
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
 lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
